@@ -1,0 +1,11 @@
+#ignore .DS_STORE
+
+.DS_STORE
+
+#ignore NODE_MODULES
+
+node_modules/
+
+#ignore index.c
+
+index.c
